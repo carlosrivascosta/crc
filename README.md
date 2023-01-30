@@ -1,1 +1,2 @@
 # crc
+Ponemos el readme
